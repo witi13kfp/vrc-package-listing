@@ -14,8 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim",
-        "bdunderscore/modular-avatar"
+        "Thryrallo/VRC-Avatar-Performance-Tools",
+        "anatawa12/AvatarOptimizer"
     ],
     "packages":[
         {
